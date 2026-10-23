@@ -4,4 +4,4 @@
 Fetch the canary page and record its main heading.
 
 ## Incident escalation
-Follow the standard on-call procedure.
+If the canary page cannot be fetched, escalate to the on-call lead within 15 minutes.
